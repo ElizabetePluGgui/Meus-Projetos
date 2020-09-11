@@ -1,7 +1,7 @@
-<h1 align="center">
+<h1 align="left">
     <img alt="foto" title="foto" src="\menu_hamburguer\assets\foto.png" />
 </h1>
-<h1 align="center">
+<h1 align="right">
     <img alt="foto_1" title="foto_1" src="\menu_hamburguer\assets\foto_1.png" />
 </h1>
 
