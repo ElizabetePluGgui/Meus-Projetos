@@ -1,8 +1,8 @@
 <p align="left">
-    <img alt="foto" title="foto" src="\assets\foto.png" width="100%" />
+    <img alt="foto" title="foto" src=".assets\foto.png" width="100%" />
 </p>
 <p align="right">
-    <img alt="foto_1" title="foto_1" src="\assets\foto_1.png" width="100%" />
+    <img alt="foto_1" title="foto_1" src=".assets\foto_1.png" width="100%" />
 </p>
 
 ## 🚀 Tecnologias
