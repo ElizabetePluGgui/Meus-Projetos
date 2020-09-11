@@ -1,9 +1,9 @@
-<h1 align="left">
+<p align="left">
     <img alt="foto" title="foto" src="\menu_hamburguer\assets\foto.png" width="100%" />
-</h1>
-<h1 align="right">
+</p>
+<p align="right">
     <img alt="foto_1" title="foto_1" src="\menu_hamburguer\assets\foto_1.png" width="100%" />
-</h1>
+</p>
 
 ## 🚀 Tecnologias
 
@@ -17,4 +17,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O MENU Hambúrguer é animado seu diferencial em redes sociais. Efeito animado em JavaScript🖤🖤
+🖤🖤O MENU Hambúrguervem com o seu diferencial que abre a animação em redes sociais. Efeito animado em JavaScript🖤🖤
