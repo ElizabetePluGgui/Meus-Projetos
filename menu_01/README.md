@@ -1,8 +1,8 @@
 <h1 align="left">
-    <img alt="foto" title="foto" src="\menu_hamburguer\assets\foto.png" />
+    <img alt="foto" title="foto" src="\menu_hamburguer\assets\foto.png" width="100%" />
 </h1>
 <h1 align="right">
-    <img alt="foto_1" title="foto_1" src="\menu_hamburguer\assets\foto_1.png" />
+    <img alt="foto_1" title="foto_1" src="\menu_hamburguer\assets\foto_1.png" width="100%" />
 </h1>
 
 ## 🚀 Tecnologias
