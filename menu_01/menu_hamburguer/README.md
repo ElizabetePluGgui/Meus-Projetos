@@ -11,3 +11,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O MENU Hambúrguer é animado seu diferencial em redes sociais. Efeito animado em JavaScript🖤🖤
+![menu_1](/assets/menu_1.png "menu_1")![menu_2](/assets/menu_2.png "menun_2")
